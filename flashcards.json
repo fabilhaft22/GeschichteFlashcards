@@ -1,0 +1,635 @@
+[
+    {
+        "frage": "Wann begann der Erste Weltkrieg?",
+        "antwort": "28.07.1914"
+    },
+    {
+        "frage": "Welches Ereignis gilt als Auslöser des Ersten Weltkriegs?",
+        "antwort": "Das Attentat von Sarajevo am 28.06.1914"
+    },
+    {
+        "frage": "Wann endete der Erste Weltkrieg?",
+        "antwort": "11.11.1918"
+    },
+    {
+        "frage": "Welcher Plan scheiterte 1914 und führte zum Stellungskrieg?",
+        "antwort": "Der Schlieffenplan"
+    },
+    {
+        "frage": "Welche moderne Waffe wurde im Ersten Weltkrieg eingesetzt?",
+        "antwort": "Giftgas"
+    },
+    {
+        "frage": "Wann traten die USA in den Ersten Weltkrieg ein?",
+        "antwort": "1917"
+    },
+    {
+        "frage": "Wann wurde der Versailler Vertrag unterzeichnet?",
+        "antwort": "28.06.1919"
+    },
+    {
+        "frage": "Welcher Artikel im Versailler Vertrag schrieb Deutschland die Kriegsschuld zu?",
+        "antwort": "Artikel 231"
+    },
+    {
+        "frage": "Wie wurde der Versailler Vertrag in Deutschland oft genannt?",
+        "antwort": "Schandfrieden"
+    },
+    {
+        "frage": "Wann begann die Weimarer Republik?",
+        "antwort": "1919"
+    },
+    {
+        "frage": "Welche Verfassung trat 1919 in Kraft?",
+        "antwort": "Die Weimarer Verfassung"
+    },
+    {
+        "frage": "Welcher Artikel der Weimarer Verfassung gab dem Reichspräsidenten große Macht?",
+        "antwort": "Artikel 48"
+    },
+    {
+        "frage": "Wie hieß der Aufstand von 1919 gegen die Weimarer Republik?",
+        "antwort": "Spartakusaufstand"
+    },
+    {
+        "frage": "Welcher Putsch fand 1920 statt?",
+        "antwort": "Der Kapp-Putsch"
+    },
+    {
+        "frage": "Was passierte 1923 in Deutschland wirtschaftlich?",
+        "antwort": "Hyperinflation"
+    },
+    {
+        "frage": "Welcher Putschversuch Hitlers fand 1923 statt?",
+        "antwort": "Hitler-Ludendorff-Putsch"
+    },
+    {
+        "frage": "Wie nennt man die wirtschaftlich stabile Phase von 1924 bis 1929?",
+        "antwort": "Die Goldenen Zwanziger"
+    },
+    {
+        "frage": "Welcher Plan stabilisierte die deutsche Wirtschaft in den 1920ern?",
+        "antwort": "Der Dawes-Plan"
+    },
+    {
+        "frage": "Wann begann die Weltwirtschaftskrise?",
+        "antwort": "24.10.1929"
+    },
+    {
+        "frage": "Wie nennt man den Börsencrash vom 24.10.1929?",
+        "antwort": "Black Thursday"
+    },
+    {
+        "frage": "Welche Folge hatte die Weltwirtschaftskrise für Deutschland?",
+        "antwort": "Massenarbeitslosigkeit"
+    },
+    {
+        "frage": "Wann wurde Hitler zum Reichskanzler ernannt?",
+        "antwort": "30.01.1933"
+    },
+    {
+        "frage": "Wer ernannte Hitler zum Reichskanzler?",
+        "antwort": "Paul von Hindenburg"
+    },
+    {
+        "frage": "Wann war der Reichstagsbrand?",
+        "antwort": "27.02.1933"
+    },
+    {
+        "frage": "Welche Verordnung setzte Grundrechte außer Kraft?",
+        "antwort": "Die Reichstagsbrandverordnung"
+    },
+    {
+        "frage": "Wann wurde das Ermächtigungsgesetz beschlossen?",
+        "antwort": "23.03.1933"
+    },
+    {
+        "frage": "Welches Gesetz markiert den Beginn der NS-Diktatur?",
+        "antwort": "Das Ermächtigungsgesetz"
+    },
+    {
+        "frage": "Wie hieß die geheime Staatspolizei im NS-Staat?",
+        "antwort": "Gestapo"
+    },
+    {
+        "frage": "Wann fanden die Nürnberger Gesetze statt?",
+        "antwort": "1935"
+    },
+    {
+        "frage": "Was regelten die Nürnberger Gesetze?",
+        "antwort": "Den Entzug von Rechten für Juden"
+    },
+    {
+        "frage": "Wann war die Reichspogromnacht?",
+        "antwort": "09./10.11.1938"
+    },
+    {
+        "frage": "Wie hieß Hitlers Ideologie der angeblichen Überlegenheit?",
+        "antwort": "Arier-Ideologie"
+    },
+    {
+        "frage": "Wann begann der Zweite Weltkrieg?",
+        "antwort": "01.09.1939"
+    },
+    {
+        "frage": "Welches Land griff Deutschland 1939 an?",
+        "antwort": "Polen"
+    },
+    {
+        "frage": "Wie hieß der Angriff auf die Sowjetunion 1941?",
+        "antwort": "Unternehmen Barbarossa"
+    },
+    {
+        "frage": "Welche Schlacht gilt als Wendepunkt im Zweiten Weltkrieg?",
+        "antwort": "Die Schlacht von Stalingrad"
+    },
+    {
+        "frage": "Welches Ereignis führte zum Kriegseintritt der USA?",
+        "antwort": "Pearl Harbor"
+    },
+    {
+        "frage": "Wann war der D-Day?",
+        "antwort": "1944"
+    },
+    {
+        "frage": "Wann beging Hitler Suizid?",
+        "antwort": "30.04.1945"
+    },
+    {
+        "frage": "Wann kapitulierte Deutschland im Zweiten Weltkrieg?",
+        "antwort": "08.05.1945"
+    },
+    {
+        "frage": "Wie viele Besatzungszonen gab es nach 1945 in Deutschland?",
+        "antwort": "Vier"
+    },
+    {
+        "frage": "Welche vier Besatzungsmächte teilten Deutschland auf?",
+        "antwort": "USA, Großbritannien, Frankreich und Sowjetunion"
+    },
+    {
+        "frage": "Welche vier Ziele hatte das Potsdamer Abkommen?",
+        "antwort": "Demilitarisierung, Denazifizierung, Demokratisierung und Dezentralisierung"
+    },
+    {
+        "frage": "Wann wurde die BRD gegründet?",
+        "antwort": "23.05.1949"
+    },
+    {
+        "frage": "Wann wurde die DDR gegründet?",
+        "antwort": "07.10.1949"
+    },
+    {
+        "frage": "Wer war der erste Bundeskanzler der BRD?",
+        "antwort": "Konrad Adenauer"
+    },
+    {
+        "frage": "Welche Partei herrschte in der DDR?",
+        "antwort": "SED"
+    },
+    {
+        "frage": "Wie hieß der Geheimdienst der DDR?",
+        "antwort": "Stasi"
+    },
+    {
+        "frage": "Wann war die Berlin-Blockade?",
+        "antwort": "1948–1949"
+    },
+    {
+        "frage": "Wie reagierten die Westmächte auf die Berlin-Blockade?",
+        "antwort": "Mit der Luftbrücke"
+    },
+    {
+        "frage": "Wann begann der Bau der Berliner Mauer?",
+        "antwort": "13.08.1961"
+    },
+    {
+        "frage": "Warum wurde die Berliner Mauer gebaut?",
+        "antwort": "Um die Flucht vieler Menschen aus der DDR zu verhindern"
+    },
+    {
+        "frage": "Wie lautet das Motto der Ostpolitik?",
+        "antwort": "Wandel durch Annäherung"
+    },
+    {
+        "frage": "Wer war für die Neue Ostpolitik bekannt?",
+        "antwort": "Willy Brandt"
+    },
+    {
+        "frage": "Wie hieß das westliche Militärbündnis des Kalten Krieges?",
+        "antwort": "NATO"
+    },
+    {
+        "frage": "Wann wurde die NATO gegründet?",
+        "antwort": "1949"
+    },
+    {
+        "frage": "Wie hieß das östliche Militärbündnis?",
+        "antwort": "Warschauer Pakt"
+    },
+    {
+        "frage": "Wann wurde der Warschauer Pakt gegründet?",
+        "antwort": "1955"
+    },
+    {
+        "frage": "Welche Krise brachte die Welt 1962 an den Rand eines Atomkriegs?",
+        "antwort": "Die Kuba-Krise"
+    },
+    {
+        "frage": "Wie hieß Gorbatschows Politik der Offenheit?",
+        "antwort": "Glasnost"
+    },
+    {
+        "frage": "Wie hieß Gorbatschows Reformpolitik?",
+        "antwort": "Perestroika"
+    },
+    {
+        "frage": "Wann fiel die Berliner Mauer?",
+        "antwort": "10.11.1989"
+    },
+    {
+        "frage": "Wie hießen die Proteste in der DDR 1989?",
+        "antwort": "Montagsdemonstrationen"
+    },
+    {
+        "frage": "Welcher Ruf wurde bei den Demonstrationen 1989 oft verwendet?",
+        "antwort": "Wir sind das Volk"
+    },
+    {
+        "frage": "Wann war die deutsche Wiedervereinigung?",
+        "antwort": "03.10.1990"
+    },
+    {
+        "frage": "Welcher Vertrag regelte die äußeren Aspekte der deutschen Einheit?",
+        "antwort": "Der Zwei-plus-Vier-Vertrag"
+    },
+    {
+        "frage": "Wann wurde die D-Mark in der DDR eingeführt?",
+        "antwort": "01.07.1990"
+    },
+    {
+        "frage": "Wer war Reichskanzler bei der Gründung des Deutschen Kaiserreichs?",
+        "antwort": "Otto von Bismarck"
+    },
+    {
+        "frage": "Wann wurde das Deutsche Kaiserreich gegründet?",
+        "antwort": "1871"
+    },
+    {
+        "frage": "Wer war der erste deutsche Kaiser?",
+        "antwort": "Wilhelm I."
+    },
+    {
+        "frage": "Wer entließ Bismarck 1890?",
+        "antwort": "Wilhelm II."
+    },
+    {
+        "frage": "Wer erhielt den Friedensnobelpreis für Verständigungspolitik?",
+        "antwort": "Gustav Stresemann"
+    },
+    {
+        "frage": "Wer war Chef der SS?",
+        "antwort": "Heinrich Himmler"
+    },
+    {
+        "frage": "Wer war Propagandaminister im NS-Staat?",
+        "antwort": "Joseph Goebbels"
+    },
+    {
+        "frage": "Wer organisierte die sogenannte Endlösung?",
+        "antwort": "Reinhard Heydrich"
+    },
+    {
+        "frage": "Welche Widerstandsgruppe verteilte Flugblätter gegen Hitler?",
+        "antwort": "Die Weiße Rose"
+    },
+    {
+        "frage": "Wer führte das Attentat vom 20. Juli 1944 an?",
+        "antwort": "Stauffenberg"
+    },
+    {
+        "frage": "Wer war als 'Vater des Wirtschaftswunders' bekannt?",
+        "antwort": "Ludwig Erhard"
+    },
+    {
+        "frage": "Welcher Bundeskanzler war für die Wiedervereinigung bekannt?",
+        "antwort": "Helmut Kohl"
+    },
+    {
+        "frage": "Wer war langjähriger DDR-Chef bis 1989?",
+        "antwort": "Erich Honecker"
+    },
+    {
+        "frage": "Wer leitete den Wiener Kongress?",
+        "antwort": "Klemens von Metternich"
+    },
+    {
+        "frage": "Welcher US-Präsident entwickelte den 14-Punkte-Plan?",
+        "antwort": "Woodrow Wilson"
+    },
+    {
+        "frage": "Wer hielt die berühmte Rede 'Ich bin ein Berliner'?",
+        "antwort": "John F. Kennedy"
+    },
+    {
+        "frage": "Welcher sowjetische Politiker leitete Glasnost und Perestroika ein?",
+        "antwort": "Michail Gorbatschow"
+    },
+    {
+        "frage": "Wann begann die Französische Revolution?",
+        "antwort": "1792"
+    },
+    {
+        "frage": "Wann wurde Napoleon Kaiser?",
+        "antwort": "1804"
+    },
+    {
+        "frage": "Welches Reich wurde 1806 aufgelöst?",
+        "antwort": "Das Heilige Römische Reich"
+    },
+    {
+        "frage": "Welcher Feldzug Napoleons scheiterte 1812?",
+        "antwort": "Der Russlandfeldzug"
+    },
+    {
+        "frage": "Welche große Schlacht fand 1813 statt?",
+        "antwort": "Die Völkerschlacht bei Leipzig"
+    },
+    {
+        "frage": "Wann wurde Napoleon endgültig besiegt?",
+        "antwort": "1815 bei Waterloo"
+    },
+    {
+        "frage": "Welcher Kongress ordnete Europa nach Napoleon neu?",
+        "antwort": "Der Wiener Kongress"
+    },
+    {
+        "frage": "Welche drei Prinzipien bestimmten den Wiener Kongress?",
+        "antwort": "Restauration, Legitimität und Mächtegleichgewicht"
+    },
+    {
+        "frage": "Wie hieß der lockere Staatenbund nach 1815?",
+        "antwort": "Deutscher Bund"
+    },
+    {
+        "frage": "Wie nennt man die Zeit von 1815 bis 1848 in Deutschland?",
+        "antwort": "Vormärz"
+    },
+    {
+        "frage": "Welche Beschlüsse führten 1819 zu Zensur?",
+        "antwort": "Die Karlsbader Beschlüsse"
+    },
+    {
+        "frage": "Welches Fest war 1832 ein Symbol der Demokratiebewegung?",
+        "antwort": "Das Hambacher Fest"
+    },
+    {
+        "frage": "Wann fand die Märzrevolution statt?",
+        "antwort": "1848"
+    },
+    {
+        "frage": "Wie hieß die deutsche Nationalversammlung von 1848?",
+        "antwort": "Frankfurter Nationalversammlung"
+    },
+    {
+        "frage": "In welchem Gebäude tagte die Frankfurter Nationalversammlung?",
+        "antwort": "In der Paulskirche"
+    },
+    {
+        "frage": "Warum scheiterte die Revolution von 1848/49?",
+        "antwort": "Die Fürsten behielten die Macht und der König lehnte die Kaiserkrone ab"
+    },
+    {
+        "frage": "Welche neuen Industrien entstanden in der Zweiten Industriellen Revolution?",
+        "antwort": "Chemie, Elektrotechnik und Stahl"
+    },
+    {
+        "frage": "Welche technische Neuerung war typisch für die Zweite Industrielle Revolution?",
+        "antwort": "Elektrizität"
+    },
+    {
+        "frage": "Wie nennt man die starke Wanderung vom Land in die Stadt?",
+        "antwort": "Urbanisierung"
+    },
+    {
+        "frage": "Welche Bewegung entstand wegen schlechter Arbeitsbedingungen?",
+        "antwort": "Die Arbeiterbewegung"
+    },
+    {
+        "frage": "Welche Organisationen vertraten die Interessen der Arbeiter?",
+        "antwort": "Gewerkschaften"
+    },
+    {
+        "frage": "Wann führte Bismarck die Krankenversicherung ein?",
+        "antwort": "1883"
+    },
+    {
+        "frage": "Wann führte Bismarck die Unfallversicherung ein?",
+        "antwort": "1884"
+    },
+    {
+        "frage": "Wann führte Bismarck die Rentenversicherung ein?",
+        "antwort": "1889"
+    },
+    {
+        "frage": "Gegen welches Land führte Preußen 1864 Krieg?",
+        "antwort": "Dänemark"
+    },
+    {
+        "frage": "Gegen welches Land führte Preußen 1866 Krieg?",
+        "antwort": "Österreich"
+    },
+    {
+        "frage": "Welcher Krieg führte 1870/71 zur deutschen Einheit?",
+        "antwort": "Der Deutsch-Französische Krieg"
+    },
+    {
+        "frage": "Wo wurde das Deutsche Kaiserreich gegründet?",
+        "antwort": "In Versailles"
+    },
+    {
+        "frage": "Wie war das Deutsche Kaiserreich politisch aufgebaut?",
+        "antwort": "Als autoritärer Staatenbund"
+    },
+    {
+        "frage": "Wie nennt man die Zeit von 1871 bis 1890 unter Bismarck?",
+        "antwort": "Bismarck-Ära"
+    },
+    {
+        "frage": "Wie hieß Bismarcks Konflikt mit der katholischen Kirche?",
+        "antwort": "Kulturkampf"
+    },
+    {
+        "frage": "Was war das Ziel von Bismarcks Bündnissystem?",
+        "antwort": "Friedenssicherung"
+    },
+    {
+        "frage": "Wie nennt man die Zeit intensiver Kolonialpolitik von 1870 bis 1914?",
+        "antwort": "Hochimperialismus"
+    },
+    {
+        "frage": "Wie wurde die koloniale Aufteilung Afrikas genannt?",
+        "antwort": "Wettlauf um Afrika"
+    },
+    {
+        "frage": "Welche Konferenz regelte 1884/85 die Aufteilung Afrikas?",
+        "antwort": "Die Berliner Kongo-Konferenz"
+    },
+    {
+        "frage": "Welche zwei Bündnisse standen sich vor dem Ersten Weltkrieg gegenüber?",
+        "antwort": "Triple Entente und Dreibund"
+    },
+    {
+        "frage": "Wann endete die Politik Bismarcks?",
+        "antwort": "1890"
+    },
+    {
+        "frage": "Was war ein Merkmal der aggressiveren Außenpolitik Deutschlands nach 1890?",
+        "antwort": "Wettrüsten"
+    },
+    {
+        "frage": "Welche Staaten gehörten zu den Mittelmächten im Ersten Weltkrieg?",
+        "antwort": "Deutschland und Österreich-Ungarn"
+    },
+    {
+        "frage": "Welche Staaten gehörten zur Entente?",
+        "antwort": "Frankreich, Großbritannien und Russland"
+    },
+    {
+        "frage": "Wie nennt man den Krieg mit Schützengräben an der Westfront?",
+        "antwort": "Grabenkrieg"
+    },
+    {
+        "frage": "Welche Staatsform brach 1918 in Deutschland zusammen?",
+        "antwort": "Die Monarchie"
+    },
+    {
+        "frage": "Wie hieß die Revolution von 1918/19 in Deutschland?",
+        "antwort": "Novemberrevolution"
+    },
+    {
+        "frage": "Welche Staatsform entstand nach der Novemberrevolution?",
+        "antwort": "Die Republik"
+    },
+    {
+        "frage": "Wann trat Deutschland dem Völkerbund bei?",
+        "antwort": "1926"
+    },
+    {
+        "frage": "Was war das Ziel des Völkerbunds?",
+        "antwort": "Eine internationale Friedensordnung"
+    },
+    {
+        "frage": "Welche Partei wurde in der NS-Diktatur verboten?",
+        "antwort": "Die SPD"
+    },
+    {
+        "frage": "Wie hieß die Aktion gegen Ernst Röhm 1934?",
+        "antwort": "Nacht der langen Messer"
+    },
+    {
+        "frage": "Wann starb Hindenburg?",
+        "antwort": "02.08.1934"
+    },
+    {
+        "frage": "Welche Ämter vereinte Hitler nach Hindenburgs Tod?",
+        "antwort": "Reichskanzler und Reichspräsident"
+    },
+    {
+        "frage": "Wie hieß das Führungsprinzip im NS-Staat?",
+        "antwort": "Führerprinzip"
+    },
+    {
+        "frage": "Wie hieß die Politik zur wirtschaftlichen Unabhängigkeit im NS-Staat?",
+        "antwort": "Autarkiepolitik"
+    },
+    {
+        "frage": "Wann begann die systematische Massenerschießung der Juden im Osten?",
+        "antwort": "1941"
+    },
+    {
+        "frage": "Welche Konferenz machte die Judenvernichtung organisatorisch effizienter?",
+        "antwort": "Die Wannsee-Konferenz 1942"
+    },
+    {
+        "frage": "Wie hieß das größte Vernichtungslager des Holocaust?",
+        "antwort": "Auschwitz-Birkenau"
+    },
+    {
+        "frage": "Wie viele Juden wurden im Holocaust ermordet?",
+        "antwort": "Etwa 6 Millionen"
+    },
+    {
+        "frage": "Welche Politik verfolgten die USA im Kalten Krieg?",
+        "antwort": "Kapitalismus und Demokratie"
+    },
+    {
+        "frage": "Welche Wirtschaftsform hatte die DDR?",
+        "antwort": "Planwirtschaft"
+    },
+    {
+        "frage": "Wie hieß die Wirtschaftshilfe der USA für Europa nach dem Zweiten Weltkrieg?",
+        "antwort": "Marshallplan"
+    },
+    {
+        "frage": "Wie nennt man den wirtschaftlichen Aufschwung der BRD in den 1950er und 1960er Jahren?",
+        "antwort": "Wirtschaftswunder"
+    },
+    {
+        "frage": "Was war das Ziel der Sowjetunion bei der Berlin-Blockade?",
+        "antwort": "Die Kontrolle über ganz Berlin"
+    },
+    {
+        "frage": "Welcher Krieg war ein Stellvertreterkrieg des Kalten Krieges von 1950 bis 1953?",
+        "antwort": "Der Koreakrieg"
+    },
+    {
+        "frage": "Welcher Krieg dauerte von 1955 bis 1975?",
+        "antwort": "Der Vietnamkrieg"
+    },
+    {
+        "frage": "Welcher Krieg fand von 1979 bis 1989 in Afghanistan statt?",
+        "antwort": "Der Afghanistan-Krieg"
+    },
+    {
+        "frage": "Warum hatte die Sowjetunion wirtschaftliche Probleme?",
+        "antwort": "Wegen ineffizienter Planwirtschaft und hoher Militärkosten"
+    },
+    {
+        "frage": "Welche polnische Bewegung forderte Reformen im Ostblock?",
+        "antwort": "Solidarność"
+    },
+    {
+        "frage": "Welches Land öffnete 1989 seine Grenzen und schwächte die DDR?",
+        "antwort": "Ungarn"
+    },
+    {
+        "frage": "Wann löste sich die Sowjetunion auf?",
+        "antwort": "1991"
+    },
+    {
+        "frage": "Was bedeutete der Zusammenbruch der Sowjetunion für den Kalten Krieg?",
+        "antwort": "Das offizielle Ende des Kalten Krieges"
+    },
+    {
+        "frage": "Welche Stadt war ein Zentrum der Montagsdemonstrationen?",
+        "antwort": "Leipzig"
+    },
+    {
+        "frage": "Wer entwickelte den 10-Punkte-Plan zur Wiedervereinigung?",
+        "antwort": "Helmut Kohl"
+    },
+    {
+        "frage": "Welche vier Siegermächte mussten der Wiedervereinigung zustimmen?",
+        "antwort": "USA, UdSSR, Großbritannien und Frankreich"
+    },
+    {
+        "frage": "Was regelte der Zwei-plus-Vier-Vertrag?",
+        "antwort": "Die äußeren Aspekte der deutschen Einheit"
+    },
+    {
+        "frage": "Welche Folgen hatte die schnelle Einführung der D-Mark in der DDR?",
+        "antwort": "Viele Betriebe waren nicht konkurrenzfähig"
+    }
+
+]
